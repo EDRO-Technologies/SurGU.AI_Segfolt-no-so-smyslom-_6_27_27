@@ -1,0 +1,10 @@
+pyTelegramBotAPI==4.15.2
+ollama==0.1.7
+pypdf==3.17.0
+python-docx==1.1.0
+SpeechRecognition==3.10.0
+requests==2.31.0
+pydub==0.25.1
+
+#напишите pip install -r requirements.txt в терминал
+

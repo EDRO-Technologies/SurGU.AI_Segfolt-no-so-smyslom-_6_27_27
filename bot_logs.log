@@ -1,0 +1,66 @@
+2025-11-09 00:51:29,233 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 00:52:31,899 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 00:56:32,936 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 00:57:42,330 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 00:59:12,704 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 00:59:22,238 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 00:59:44,037 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 01:02:09,285 - VoiceBot - ERROR - FFmpeg не найден! Установите ffmpeg для работы бота.
+2025-11-09 01:44:19,420 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 01:54:46,988 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 01:55:48,519 - VoiceBot - ERROR - Ошибка обработки голосового сообщения: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-09 01:55:48,519 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T01:55:48.519481", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 5, "file_size": 105489, "conversion_success": false, "transcription_text": null, "transcription_error": "Ошибка обработки аудио: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format", "transcription_success": false}
+2025-11-09 02:02:54,243 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:03:34,413 - VoiceBot - ERROR - Ошибка обработки голосового сообщения: [WinError 2] Не удается найти указанный файл
+2025-11-09 02:03:34,413 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T02:03:34.413841", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89833, "conversion_success": false, "transcription_text": null, "transcription_error": "Ошибка обработки аудио: [WinError 2] Не удается найти указанный файл", "transcription_success": false}
+2025-11-09 02:10:36,224 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:11:14,763 - VoiceBot - ERROR - Альтернативный метод также не сработал: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-09 02:11:14,763 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T02:11:14.763668", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89833, "conversion_success": false, "transcription_text": null, "transcription_error": "Не удалось обработать голосовое сообщение. Попробуйте отправить текст.", "transcription_success": false}
+2025-11-09 02:11:40,021 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:12:28,912 - VoiceBot - ERROR - Альтернативный метод также не сработал: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-09 02:12:28,913 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T02:12:28.913011", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89009, "conversion_success": false, "transcription_text": null, "transcription_error": "Не удалось обработать голосовое сообщение. Попробуйте отправить текст.", "transcription_success": false}
+2025-11-09 02:13:42,240 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:15:39,285 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 02:18:55,676 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:19:40,182 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T02:19:40.182813", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89009, "conversion_success": true, "transcription_text": "Какие требования безопасности есть к ведению газоопасных работ", "transcription_error": null, "transcription_success": true}
+2025-11-09 02:21:12,160 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 02:21:50,117 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:22:36,485 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T02:22:36.485192", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89833, "conversion_success": true, "transcription_text": "Какие требования безопасности есть к ведению газоопасных работ", "transcription_error": null, "transcription_success": true}
+2025-11-09 02:24:55,501 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 02:25:24,447 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:27:17,469 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 02:31:14,714 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:33:06,143 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 02:37:26,720 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:38:00,988 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T02:38:00.988411", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89009, "conversion_success": true, "transcription_text": "Какие требования безопасности есть к ведению газоопасных работ", "transcription_error": null, "transcription_success": true}
+2025-11-09 02:39:27,557 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 02:40:44,458 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 02:42:15,482 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 03:00:21,658 - VoiceAIBot - INFO - Универсальный бот запущен и готов к работе...
+2025-11-09 03:00:21,710 - VoiceAIBot - INFO - FFmpeg найден и готов к работе
+2025-11-09 03:02:27,076 - VoiceAIBot - INFO - Универсальный бот запущен и готов к работе...
+2025-11-09 03:02:27,110 - VoiceAIBot - INFO - FFmpeg найден и готов к работе
+2025-11-09 03:02:43,106 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 03:05:06,880 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 03:05:56,478 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 03:08:27,713 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 03:09:10,725 - VoiceAIBot - INFO - Успешно сконвертировано: voice_messages\voice_2123532570_20251109_030910_477549.ogg -> voice_messages\voice_2123532570_20251109_030910_477549.wav
+2025-11-09 03:09:11,793 - VoiceAIBot - INFO - Voice message processed: {"timestamp": "2025-11-09T03:09:11.793853", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89833, "ogg_file": "voice_2123532570_20251109_030910_477549.ogg", "wav_file": "voice_2123532570_20251109_030910_477549.wav", "conversion_success": true, "transcription_text": "Какие требования безопасности есть к ведению газоопасных работ", "transcription_error": null, "transcription_success": true}
+2025-11-09 03:36:32,313 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 03:38:29,323 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 03:47:55,896 - VoiceAIBot - INFO - Универсальный бот запущен и готов к работе...
+2025-11-09 03:47:55,950 - VoiceAIBot - INFO - FFmpeg найден и готов к работе
+2025-11-09 03:48:29,848 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 03:50:39,280 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 05:05:59,919 - VoiceBot - INFO - FFmpeg найден и готов к работе
+2025-11-09 05:06:24,080 - VoiceBot - INFO - Успешно сконвертировано: voice_messages\voice_2123532570_20251109_050623_854821.ogg -> voice_messages\voice_2123532570_20251109_050623_854821.wav
+2025-11-09 05:06:25,382 - VoiceBot - INFO - Voice message processed: {"timestamp": "2025-11-09T05:06:25.379836", "user_id": 2123532570, "username": "winjav1", "first_name": "ᅠ", "chat_id": 2123532570, "voice_duration": 4, "file_size": 89833, "ogg_file": "voice_2123532570_20251109_050623_854821.ogg", "wav_file": "voice_2123532570_20251109_050623_854821.wav", "conversion_success": true, "transcription_text": "Какие требования безопасности есть к ведению газоопасных работ", "transcription_error": null, "transcription_success": true}
+2025-11-09 05:06:30,439 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 05:08:32,304 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-09 05:09:25,920 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 05:09:28,685 - VoiceBot - ERROR - Ошибка бота: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-11-09 05:20:56,214 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 05:21:25,278 - VoiceBot - INFO - FFmpeg найден и готов к работе
+2025-11-09 05:21:46,144 - VoiceBot - ERROR - Ошибка бота: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2025-11-09 05:21:59,546 - pypdf._reader - WARNING - incorrect startxref pointer(1)
+2025-11-09 05:22:28,354 - VoiceBot - INFO - FFmpeg найден и готов к работе
